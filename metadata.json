@@ -1,0 +1,6 @@
+{
+  "name": "PrintCalc 3D",
+  "description": "Calculadora de consumo de impressora 3D, custos de filamento, energia e lançamentos de clientes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
